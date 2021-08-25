@@ -4,4 +4,6 @@
 
 Комментарии всё такое
 
+![Specs](http://i.imgur.com/aV8o3rE.png)
+
 ---
